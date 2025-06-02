@@ -1,4 +1,4 @@
-## Hi, I'm Shibas Salim
+## Hi, I'm Shibassalim
 
 Data Scientist | Machine Learning Enthusiast | Data-Driven Problem Solver
 
